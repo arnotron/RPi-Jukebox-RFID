@@ -122,7 +122,7 @@ A button to increase the volume by 5 steps every 0.75 seconds as long as it is p
 Button: Shutdown
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-A button to shutdown the Jukebox if it is presse for more than 3 seconds. Note the different ``type`` here!
+A button to shutdown the Jukebox if it is pressed for more than 3 seconds. Note the different ``type`` here!
 
 .. code-block:: yaml
 
